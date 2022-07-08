@@ -7,10 +7,10 @@
 | Neural-Symbolic Machine Learning for Retrosynthesis and Reaction Prediction | Molecular Fingerprint | 2017 | ChemistryA European Journal | -                                                            |
 | Computer-Assisted Retrosynthesis Based on Molecular Similarity | Molecular Fingerprint | 2017 | ACS Central Science          | [link](https://github.com/connorcoley/retrosim)              |
 | Prediction and Interpretable Visualization of Retrosynthetic Reactions Using Graph Convolutional Networks | Graph                 | 2019 | JCIM                         | [tensorflow](https://github.com/connorcoley/retrosim)        |
-| Retrosynthesis Prediction with Conditional Graph Logic Network | Graph                 | 2019 | NIPS                         | [pytorch]([GitHub - Hanjun-Dai/GLN: Implementation of Retrosynthesis Prediction with Conditional Graph Logic Network](https://github.com/Hanjun-Dai/GLN)) |
+| Retrosynthesis Prediction with Conditional Graph Logic Network | Graph                 | 2019 | NIPS                         | [pytorch](https://github.com/Hanjun-Dai/GLN) |
 | Data Augmentation and Pretraining for Template-Based Retrosynthetic Prediction in Computer-Aided Synthesis Planning | Molecular Fingerprint | 2020 | JCIM                         | [tensorflow](https://gitlab.com/mefortunato/template-relevance) |
-| Deep Retrosynthetic Reaction Prediction using Local Reactivity and Global Attention | Graph                 | 2021 | JACS Au                      | [pytorch]([GitHub - kaist-amsg/LocalRetro: Retrosynthesis Prediction by Learning the Local Chemical Reactivity with Nonlocal Attention](https://github.com/kaist-amsg/LocalRetro)) |
-| Improving Few- and Zero-Shot Reaction Template Prediction Using Modern Hopfield Networks | Molecular Fingerprint | 2022 | JCIM                         | [pytorch]([GitHub - ml-jku/mhn-react: Modern Hopfield Network (MHN) for template relevance prediction](https://github.com/ml-jku/mhn-react)) |
+| Deep Retrosynthetic Reaction Prediction using Local Reactivity and Global Attention | Graph                 | 2021 | JACS Au                      | [pytorch](https://github.com/kaist-amsg/LocalRetro) |
+| Improving Few- and Zero-Shot Reaction Template Prediction Using Modern Hopfield Networks | Molecular Fingerprint | 2022 | JCIM                         | [pytorch](https://github.com/ml-jku/mhn-react) |
 
 
 
