@@ -1,4 +1,4 @@
-# DeepRetrosynthesis: methods and implements
+# DeepRetrosynthesis: methods and implementations
 
 ## Template-Based Methods
 
