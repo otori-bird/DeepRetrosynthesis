@@ -4,7 +4,7 @@
 
 | Paper                                                        | Representation        | Year | Journal / Conference         | Code                                                         |
 | ------------------------------------------------------------ | --------------------- | ---- | ---------------------------- | ------------------------------------------------------------ |
-| Neural-Symbolic Machine Learning for Retrosynthesis and Reaction Prediction | Molecular Fingerprint | 2017 | ChemistryA European Journal | -                                                            |
+| Neural-Symbolic Machine Learning for Retrosynthesis and Reaction Prediction | Molecular Fingerprint | 2017 | ChemistryA European Journal | [link](https://github.com/linminhtoo/neuralsym)                    |
 | Computer-Assisted Retrosynthesis Based on Molecular Similarity | Molecular Fingerprint | 2017 | ACS Central Science          | [link](https://github.com/connorcoley/retrosim)              |
 | Prediction and Interpretable Visualization of Retrosynthetic Reactions Using Graph Convolutional Networks | Graph                 | 2019 | JCIM                         | [tensorflow](https://github.com/connorcoley/retrosim)        |
 | Retrosynthesis Prediction with Conditional Graph Logic Network | Graph                 | 2019 | NIPS                         | [pytorch](https://github.com/Hanjun-Dai/GLN) |
