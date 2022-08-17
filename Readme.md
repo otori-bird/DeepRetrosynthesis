@@ -1,5 +1,12 @@
 # DeepRetrosynthesis: methods and implementations
 
+## Reactant-Based Methods
+| Paper                                                        | Representation        | Year | Journal / Conference         | Code                                                         |
+| ------------------------------------------------------------ | --------------------- | ---- | ---------------------------- | ------------------------------------------------------------ |
+| Bayesian Algorithm for Retrosynthesis | Molecular Fingerprint | 2020 | JCIM | [pytorch](https://github.com/zguo235/bayesian_retro)                    |
+| RetCL: A Selection-based Approach for Retrosynthesis via Contrastive Learning | 2021 | IJCAI        | [pytorch](https://github.com/hankook/RetCL)              |
+
+
 ## Template-Based Methods
 
 | Paper                                                        | Representation        | Year | Journal / Conference         | Code                                                         |
