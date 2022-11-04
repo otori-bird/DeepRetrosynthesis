@@ -56,6 +56,9 @@
 
 
 ## Performance
+
+Most of these results are obtained from their published papers, while some are obtained from additional experiments we conducted.
+
 |                  | **USPTO-50K** |       |       |        |        |        | **USPTO-MIT** |       |       |        |        |        | **USPTO-FULL** |       |       |        |        |        |
 | ---------------- | ------------- | ----- | ----- | ------ | ------ | ------ | ------------- | ----- | ----- | ------ | ------ | ------ | -------------- | ----- | ----- | ------ | ------ | ------ |
 | **Model**        | **K = 1**     | **3** | **5** | **10** | **20** | **50** | **K = 1**     | **3** | **5** | **10** | **20** | **50** | **K = 1**      | **3** | **5** | **10** | **20** | **50** |
