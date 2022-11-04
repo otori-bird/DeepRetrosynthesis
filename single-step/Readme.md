@@ -51,7 +51,7 @@
 | Towards understanding retrosynthesis by energy-based models  | SMILES            | 2021 | NIPS                                     | -                                                            |
 | Chemformer: A Pre-Trained Transformer for Computational Chemistry | SMILES            | 2022 | Machine Learning: Science and Technology | [pytorch](https://github.com/MolecularAI/Chemformer)         |
 | Retrosynthetic reaction pathway prediction through neural machine translation of atomic environments | Customized String | 2022 | Nature Communications                    | [pytorch](https://github.com/knu-lcbc/RetroTRAE)             |
-| Root-aligned SMILES: A Tight Representation for Chemical Reaction Prediction | SMILES | Chemical Science |[pytorch](https://github.com/otori-bird/retrosynthesis)|
+| Root-aligned SMILES: A Tight Representation for Chemical Reaction Prediction | SMILES | 2022 |  Chemical Science |[pytorch](https://github.com/otori-bird/retrosynthesis)|
 
 
 
